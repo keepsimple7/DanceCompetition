@@ -1,4 +1,4 @@
-# Wait and Eat
+# Inspired by
 
 This is the most recent version of the demo app for [The Angular Course](https://www.angularcourse.com).
 
@@ -70,4 +70,4 @@ By reading and experimenting with the code, you'll also learn how to:
 
 ## Contact
 
-coolsardarhamid@hotmail.com
+keepsimple95@outlook.com
